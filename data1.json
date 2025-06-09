@@ -1,0 +1,98 @@
+[
+ {
+    "batch_name": "Arjuna JEE 3.0 2023",
+    "batch_class": "11th",
+    "batch_id": "6311e4e0b068e6001107eb9f",
+    "batch_slug": "arjuna-jee-3-0-2023-122808",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Prayas 3.0 2023",
+    "batch_class": "12th+",
+    "batch_id": "63104ec1edfcb50011df477b",
+    "batch_slug": "prayas-3-0-2023-821341",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0992d8af-237e-4e31-9865-c8b44d342227.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Prayas Hindi 2023",
+    "batch_class": "12th+",
+    "batch_id": "63104fe52aebad00181968f8",
+    "batch_slug": "prayas-hindi-2023-556854",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3b83d0ea-59df-47b4-8d4c-5cd4ff6feb6c.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Prayas 2.0 2023",
+    "batch_class": "12th+",
+    "batch_id": "62e53234c6cee700112e96f7",
+    "batch_slug": "prayas-2-0-2023-458229",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d9f78f20-fdd8-4391-9f61-c399387900a6.jpeg",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Arjuna JEE 2.0 2023",
+    "batch_class": "11th",
+    "batch_id": "62230a31a4e7e50019e874eb",
+    "batch_slug": "arjuna-jee-2-0-2023-234727",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Pathshala Dropper JEE 2023",
+    "batch_class": "12th+",
+    "batch_id": "621b73ba2f7d420018f5b95a",
+    "batch_slug": "pathshala-dropper-jee-2023-946918",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9f4b0a22-14c6-4246-a0c4-25030d171204.jpeg",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Prayas 2023",
+    "batch_class": "12th+",
+    "batch_id": "628b50055b231b0018a8712c",
+    "batch_slug": "prayas-2023-617434",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/453e26e9-2662-4335-ba88-a22961ff8595.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Lakshya JEE 2.0 2023",
+    "batch_class": "12th",
+    "batch_id": "62230970df9c190018354867",
+    "batch_slug": "lakshya-jee-2-0-2023-014465",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9f0c3627-1463-47af-a3fa-340ff995569c.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Pathshala 11th JEE 2023",
+    "batch_class": "11th",
+    "batch_id": "6213349e0c58ab001819ffdd",
+    "batch_slug": "pathshala-11th-jee-2023-065095",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ae476055-8c96-4bde-9c4f-2cd634d3b47c.jpeg",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Arjuna JEE 2023",
+    "batch_class": "11th",
+    "batch_id": "621c639307e15c0018158759",
+    "batch_slug": "arjuna-jee-2023-426578",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Lakshya JEE 2023",
+    "batch_class": "12th",
+    "batch_id": "621c5167a592f502085b0878",
+    "batch_slug": "lakshya-jee-2023-553892",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9ddbe2c1-a4f9-43ee-96cb-0b776a4a2a06.png",
+    "batch_exam": "IIT-JEE"
+  },
+  {
+    "batch_name": "Manzil for JEE Advanced",
+    "batch_class": "12th",
+    "batch_id": "6229aba1c906350011f5b73b",
+    "batch_slug": "manzil-for-jee-advanced-559120",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2a56abca-7191-4dab-a552-e522047959dd.jpg",
+    "batch_exam": "IIT-JEE"
+  }
+]
